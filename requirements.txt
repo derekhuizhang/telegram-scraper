@@ -1,0 +1,12 @@
+Click==7.0
+prompt-toolkit==1.0.14
+pyaes==1.6.1
+pyasn1==0.4.4
+Pygments==2.2.0
+PyInquirer==1.0.2
+regex==2018.11.7
+rsa==4.0
+six==1.11.0
+Telethon==0.18.2.3
+typing==3.6.6
+wcwidth==0.1.7
